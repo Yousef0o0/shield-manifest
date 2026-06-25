@@ -176,12 +176,12 @@
                       "required":  true
                   },
                   {
-                      "path":  "main/zzz-antennaskin-official.pk3",
-                      "sha256":  [
-                                     "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
-                                 ],
-                      "required":  false
-                  }
+                       "path":  "main/zzz-antennaskin-official.pk3",
+                       "sha256":  [
+                                      "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
+                                  ],
+                       "required":  false
+                   }
               ],
     "directories":  [
                         {
@@ -189,14 +189,19 @@
                             "recursive":  false,
                             "extensions":  [
                                                ".pk3",
-                                               ".dll"
+                                               ".dll",
+                                               ".exe",
+                                               ".asi"
                                            ]
                         },
                         {
                             "path":  "shield",
                             "recursive":  false,
                             "extensions":  [
-                                               ".dll"
+                                               ".dll",
+                                               ".exe",
+                                               ".pk3",
+                                               ".asi"
                                            ]
                         },
                         {
@@ -206,16 +211,21 @@
                                                ".flt",
                                                ".asi",
                                                ".dll",
-                                               ".m3d"
+                                               ".m3d",
+                                               ".exe",
+                                               ".pk3"
                                            ]
                         },
                         {
                             "path":  "",
                             "recursive":  false,
                             "extensions":  [
-                                               ".pk3"
+                                               ".exe",
+                                               ".dll",
+                                               ".pk3",
+                                               ".asi"
                                            ]
                         }
                     ],
-    "version":  2
+    "version":  3
 }
