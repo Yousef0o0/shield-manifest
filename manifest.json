@@ -1,5 +1,4 @@
 {
-    "version":  1,
     "files":  [
                   {
                       "path":  "openmohaa.exe",
@@ -181,7 +180,42 @@
                       "sha256":  [
                                      "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
                                  ],
-                      "required":  true
+                      "required":  false
                   }
-              ]
+              ],
+    "directories":  [
+                        {
+                            "path":  "main",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".pk3",
+                                               ".dll"
+                                           ]
+                        },
+                        {
+                            "path":  "shield",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".dll"
+                                           ]
+                        },
+                        {
+                            "path":  "snddrivers",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".flt",
+                                               ".asi",
+                                               ".dll",
+                                               ".m3d"
+                                           ]
+                        },
+                        {
+                            "path":  "",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".pk3"
+                                           ]
+                        }
+                    ],
+    "version":  2
 }
