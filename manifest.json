@@ -1,0 +1,187 @@
+{
+    "version":  1,
+    "files":  [
+                  {
+                      "path":  "openmohaa.exe",
+                      "sha256":  [
+                                     "dbe222482d20942974fa7fc7192fc324cbc48955bcc869fd6ef1c8d6c0db1c5c"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "renderer_opengl1.dll",
+                      "sha256":  [
+                                     "369e9e9b595171a3347517d22823aae7a01faaf57c8f154cc982d8d24b05cdc6"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "game.dll",
+                      "sha256":  [
+                                     "852a524660457b6866ebfeba9957bfe9811e185ca7fb99070af187a7fc26387b"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "cgame.dll",
+                      "sha256":  [
+                                     "9c3762a9a07e320d0156858d9a5ebc22cf980a00f4961cfacc04f647b699d5e2"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "SDL2.dll",
+                      "sha256":  [
+                                     "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "OpenAL64.dll",
+                      "sha256":  [
+                                     "acf3a263e740b3dce22f582ecf1cb1ec01f97aeb47cbf452773cd02552645a05"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "shield/AppCore.dll",
+                      "sha256":  [
+                                     "9722dc1d486dfe523323d195f105d16b7772d4f555da0a90d5d324efb930d90a"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "shield/Ultralight.dll",
+                      "sha256":  [
+                                     "27d64ff4077281a5fb91fac461cece6d458aefb0920b4fffae86b5dee52e23d1"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "shield/UltralightCore.dll",
+                      "sha256":  [
+                                     "b3073dd716f99b2b8f412bc08639f9df1affa0996660701aa538d36cc5d1abed"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "shield/WebCore.dll",
+                      "sha256":  [
+                                     "29a25da7ae25df3758ef2239134361679773e6f75e14bd37d79d8ac15442f9f3"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Lowpass.flt",
+                      "sha256":  [
+                                     "db80987a6cc625bd2b16ca5c9281b0c4385a78dc7410e636e02972b830a039cb"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mp3dec.asi",
+                      "sha256":  [
+                                     "0a6db88a5fad28168c1dac700473c5709b17802c33e36b2668c3300c1e580fad"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mss32.dll",
+                      "sha256":  [
+                                     "2a515199cc7a2e1ccd8d756efdaab07cedd5c3052309ef1c7499c2560e2097bd"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mssfast.m3d",
+                      "sha256":  [
+                                     "343ba39b3e5d0f220e0d15ec5f9eb9b84a04617599ba6cd1d815539637f10647"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Reverb3.flt",
+                      "sha256":  [
+                                     "e106854e123efa1396474b8a65369514c5b86f9a891fac74170ea5846faad62c"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/cgamex86.dll",
+                      "sha256":  [
+                                     "b86ccd590d0f9265085edb59f0e6c8fac3ba75c49c33e6e22fe7dbb8c20f57f3"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/ffx86.dll",
+                      "sha256":  [
+                                     "6256963cc834d0acf99cb51e6829f52fe1b46201111322bb379d01642c0de747"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/gamex86.dll",
+                      "sha256":  [
+                                     "746fb3ab9e11ca2b01b08570d5a2ce7854a4babc4e36d7fcbf3ba5923e74aab2"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak0.pk3",
+                      "sha256":  [
+                                     "6caf6d93cc996b6895d5015f1be153724e5369b8c063c73e1609578323261df6"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak1.pk3",
+                      "sha256":  [
+                                     "60ed94c185c4f81813aefaf1603b16734e65eb1b931737ae588df84c0a2a4b80"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak2.pk3",
+                      "sha256":  [
+                                     "00133b93d350b5d82ff2d59a7d87fe94dad18147d28b6fd59dd2b5a6c816acce"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak3.pk3",
+                      "sha256":  [
+                                     "1e0eed04b234bae260097813755325d2533bb6082c5fc9e98332aa66c4f4db92"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak4.pk3",
+                      "sha256":  [
+                                     "853cc70610933e83284db95e6144ed3c02d81190065b44aae94ba58ca09f3130"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak5.pk3",
+                      "sha256":  [
+                                     "b6035d8686bed133be76cdee322c37fd4a9814ba88bbce3e91f20571ea7b2a1d"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/pak6.pk3",
+                      "sha256":  [
+                                     "619e6acfd37471f0c71194ef6546e592d01cd9f7c1a3ebf57064cf618cf503ae"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/zzz-antennaskin-official.pk3",
+                      "sha256":  [
+                                     "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
+                                 ],
+                      "required":  true
+                  }
+              ]
+}
