@@ -1,5 +1,5 @@
 {
-  "game_version": "1.2",
+  "game_version": "1.1",
   "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.1/patch-v1.1.zip",
   "patch_sha256": "44e104f04e325ea32ab288e5f9beb4ad378b260ab22afd406e39b8e112c822ed",
   "patch_size_mb": 7.0,
