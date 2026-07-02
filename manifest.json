@@ -5,7 +5,7 @@
                       "sha256":  [
                                      "0202E9DCF175DEFCAE93DFC3B7B5F887B5E27F2BAF49BDC444D81EF1517CCFC9",
                                      "08750BE813597E2FFBBB4F1A79FA6EB6E7E5DD4E39748FA91386C3A6A0FCE79C",
-                                     "e3d766e18993bf0756416ce7b17c84fcb30473c1851f99cf8ef755413b91a28c"
+                                     "6865B69353FB07CDCD86EB24382B837348204627FCE91A60F0F027E4D7A03510"
                                  ],
                       "required":  true
                   },
@@ -13,7 +13,7 @@
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
                                      "5590414f5eed3e018f21ddf93485bef3ba02b78c4892e42f35a6c9f56fff9b47",
-                                     "DEED8399856A382534924BB8EF62ABF075AEA036F433766D1880328CF9506268"
+                                     "5D579AA5DCB77D8016A80AEB171F58ED9C66A3467C6A1F8BD3B87CC611A34E58"
                                  ],
                       "required":  true
                   },
@@ -27,7 +27,8 @@
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "bc5cc4b6b8aa245dae21cc6a9783af448f2d19862f433a950d5eba05e8f1f819"
+                                     "bc5cc4b6b8aa245dae21cc6a9783af448f2d19862f433a950d5eba05e8f1f819",
+                                     "23766733FFEB17AB4B2F6293C2CB137A654791B942107E6F8ABF5EE7B1325C6A"
                                  ],
                       "required":  true
                   },
