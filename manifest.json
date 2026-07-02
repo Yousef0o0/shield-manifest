@@ -3,14 +3,14 @@
                   {
                       "path":  "openmohaa.exe",
                       "sha256":  [
-                                     "6865B69353FB07CDCD86EB24382B837348204627FCE91A60F0F027E4D7A03510"
+                                     "1F6A43E259353111115D029F1AAD278187D286C1D7AF3836922EC5002C70A086"
                                  ],
                       "required":  true
                   },
                   {
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
-                                     "C55EEBF2751418FA6AFA3427C5A8737F1DFBD8EE58076A23604A922A71CDF703"
+                                     "0676681331DB23F7BCEAC33EB0F270FA234055B517509A2360910B2EEB5DB5B6"
                                  ],
                       "required":  true
                   },
