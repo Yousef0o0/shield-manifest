@@ -1,7 +1,7 @@
 {
-  "game_version": "1.22",
-  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.21/patch-v1.21.zip",
-  "patch_sha256": "abde8b7e2f596d3c24cd07fffaf0cecbf54301509045ab18eb05fa5e2eeaef7b",
+  "game_version": "1.23",
+  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.23/patch-v1.23.zip",
+  "patch_sha256": "7fc2d95cdb1a879e2809d5b2b1c8b21a1516da64e6e4c022faa2a9d674294413",
   "patch_size_mb": 7.04,
-  "patch_notes": ""
+  "patch_notes": "Added F7 key as an alternative key to toggle/open the shield menu (along with the HOME key). Also includes previous HUD/FOV options and clean game binaries."
 }
