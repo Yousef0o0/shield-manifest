@@ -1,6 +1,6 @@
 {
-  "game_version": "1.2",
-  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.2/patch-v1.2.zip",
+  "game_version": "1.21",
+  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.21/patch-v1.21.zip",
   "patch_sha256": "abde8b7e2f596d3c24cd07fffaf0cecbf54301509045ab18eb05fa5e2eeaef7b",
   "patch_size_mb": 7.04,
   "patch_notes": "Added HUD options to toggle ID display, updated minimum FOV to 65, and optimized roster player menu updates. Added full clean game binaries to prevent MODIFIED warnings."
