@@ -3,5 +3,5 @@
   "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.24/patch-v1.24.zip",
   "patch_sha256": "a7b85b2d26bdc26558d27a30b9110b5bb754de9adc69e095e76ddc58a20075a8",
   "patch_size_mb": 6.84,
-  "patch_notes": "Fixed random disconnected issues. Added colored team kill messages, HUD/FOV scaling options, and desktop crash fixes. Unlocked volumetric smoke settings. Resolved the ESC key input conflict when running with background overlays."
+  "patch_notes": "Fixed random disconnected issues. Added colored team kill messages, HUD/FOV scaling options, and desktop crash fixes. Unlocked volumetric smoke settings."
 }
