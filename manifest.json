@@ -4,7 +4,7 @@
                       "path":  "openmohaa.exe",
                       "sha256":  [
                                      "1F6A43E259353111115D029F1AAD278187D286C1D7AF3836922EC5002C70A086",
-                                     "B6CB0E2CF9622826F646CD04534881DC680C2711E5E0898EF0CFFCFD5B1D2308"
+                                     "E4BE48746A7E63E7E4544C319469788D55B8F9EE5491DE630CF38304131F7EC8"
                                  ],
                       "required":  true
                   },
@@ -12,7 +12,7 @@
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
                                      "0676681331DB23F7BCEAC33EB0F270FA234055B517509A2360910B2EEB5DB5B6",
-                                     "351ABF402E3D97BF8895D4FD3180BBA9951BF40E480D1105633E8E41D60BD99D"
+                                     "D3C7BCF8576EFB277DDDCC229EEAE2C68200ACE45A3A31ABBB3ED781C4DCA038"
                                  ],
                       "required":  true
                   },
@@ -27,7 +27,7 @@
                       "path":  "cgame.dll",
                       "sha256":  [
                                      "23766733FFEB17AB4B2F6293C2CB137A654791B942107E6F8ABF5EE7B1325C6A",
-                                     "5A03221B0560E6A23ADB2CBD90D910BB997FB739905FEAD12CBD20D39F06E126"
+                                     "96D5ED0874E89A2AA0D082AC9D15D287DF1669FEAB6EF57E3FDAB8C7B6E01E74"
                                  ],
                       "required":  true
                   },
