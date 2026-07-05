@@ -1,18 +1,16 @@
-{
+﻿{
     "files":  [
                   {
                       "path":  "openmohaa.exe",
                       "sha256":  [
-                                     "1F6A43E259353111115D029F1AAD278187D286C1D7AF3836922EC5002C70A086",
-                                     "948E19B4F728F066416A621F97078E2A41E5077C45734A196EC783A2ACAA10DB"
+                                     "948e19b4f728f066416a621f97078e2a41e5077c45734a196ec783a2acaa10db"
                                  ],
                       "required":  true
                   },
                   {
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
-                                     "0676681331DB23F7BCEAC33EB0F270FA234055B517509A2360910B2EEB5DB5B6",
-                                     "6C98CCA725B4D8A609085C9D53AC51A3DD0F837A8FCCB71E737F696CE7F7956D"
+                                     "6c98cca725b4d8a609085c9d53ac51a3dd0f837a8fccb71e737f696ce7f7956d"
                                  ],
                       "required":  true
                   },
@@ -26,8 +24,7 @@
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "23766733FFEB17AB4B2F6293C2CB137A654791B942107E6F8ABF5EE7B1325C6A",
-                                     "1968FE064CE80D66A3CE738E0F06AC22CFF15CD2413AEEBDBEC355C773895EE3"
+                                     "1968fe064ce80d66a3ce738e0f06ac22cff15cd2413aeebdbec355c773895ee3"
                                  ],
                       "required":  true
                   },
@@ -179,12 +176,12 @@
                       "required":  true
                   },
                   {
-                       "path":  "main/zzz-antennaskin-official.pk3",
-                       "sha256":  [
-                                      "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
-                                  ],
-                       "required":  false
-                   }
+                      "path":  "main/zzz-antennaskin-official.pk3",
+                      "sha256":  [
+                                     "0000000000000000000000000000000000000000000000000000000000000000"
+                                 ],
+                      "required":  false
+                  }
               ],
     "directories":  [
                         {

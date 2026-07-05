@@ -1,7 +1,7 @@
 {
-  "game_version": "1.23",
-  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.23/patch-v1.23.zip",
-  "patch_sha256": "7fc2d95cdb1a879e2809d5b2b1c8b21a1516da64e6e4c022faa2a9d674294413",
-  "patch_size_mb": 7.04,
-  "patch_notes": "Added HUD options to toggle ID display, updated minimum FOV to 65, and optimized roster player menu updates. Added full clean game binaries to prevent MODIFIED warnings.Added F7 key as an alternative key to toggle/open the shield menu (along with the HOME key)."
+  "game_version": "1.24",
+  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.24/patch-v1.24.zip",
+  "patch_sha256": "a7b85b2d26bdc26558d27a30b9110b5bb754de9adc69e095e76ddc58a20075a8",
+  "patch_size_mb": 6.84,
+  "patch_notes": "Clean production binaries release. Bypasses menu render initialization when running without SHIELD launcher, fixing conflict with background overlays stealing the ESC key."
 }
