@@ -182,6 +182,13 @@
                                      "EFD90EAD3C5E7DF6DD46242DA783477B2A0F72ADC77E45FB836A9BEA1F5B141C"
                                  ],
                       "required":  false
+                  },
+                  {
+                      "path":  "main/zzz-stockthinlinescope1024x1024.pk3",
+                      "sha256":  [
+                                     "335D59970FB5EA28A3C6CF3657A467945BE15A394A82074D53BB88E1E19311FB"
+                                 ],
+                      "required":  false
                   }
               ],
     "directories":  [
