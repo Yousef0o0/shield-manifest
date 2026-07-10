@@ -4,7 +4,8 @@
                       "path":  "openmohaa.exe",
                       "sha256":  [
                                      "948e19b4f728f066416a621f97078e2a41e5077c45734a196ec783a2acaa10db",
-                                     "2E38AAE3B2AA5E937A8D34925179D435029BA06578C88CCD83C13AEB9847FF27"
+                                     "2E38AAE3B2AA5E937A8D34925179D435029BA06578C88CCD83C13AEB9847FF27",
+                                     "9C9F176B2712B74B2F7DA3E984A56E2CBF3C4F05FD7F0C8D8C2D49CDCD35E95D"
                                  ],
                       "required":  true
                   },
