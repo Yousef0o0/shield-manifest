@@ -111,7 +111,7 @@
                       "path":  "main/cgamex86.dll",
                       "sha256":  [
                                      "b86ccd590d0f9265085edb59f0e6c8fac3ba75c49c33e6e22fe7dbb8c20f57f3",
-                                     "27CC460914A7D1F0BFBF8D1E1AB46DE30F97208422002B53375C9F6EC0096773"
+                                     "2ED74BE96B7F850381209D6492D80277D425E78DB0C115309C7B396C596FFB96"
                                  ],
                       "required":  true
                   },
