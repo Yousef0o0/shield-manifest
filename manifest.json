@@ -194,6 +194,13 @@
                                      "335D59970FB5EA28A3C6CF3657A467945BE15A394A82074D53BB88E1E19311FB"
                                  ],
                       "required":  false
+                  },
+                  {
+                      "path":  "main/User-CrizzBlood_2.1.pk3",
+                      "sha256":  [
+                                     "A10BEDCEF0FF33E2A67CAED421C7C5E50E79775CAA4576F66AB047757C976F90"
+                                 ],
+                      "required":  false
                   }
               ],
     "directories":  [
