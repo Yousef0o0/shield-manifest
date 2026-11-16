@@ -3,7 +3,7 @@
     {
       "path": "openmohaa.exe",
       "sha256": [
-        "9e91273c2a20bfa7f664a0ad59cb11a925bab42db03ea9ce5d6c870975e6d49c"
+        "9e91273c2a20bfa7f664a0ad59cb11a925bab42db03ea9ce5d6c870975e6d49c",
         "A68717AE4CEDA5D8E7B9A3A9C676AAAC2F96C3A108CB331AC16306CF9BC85055"
       ],
       "required": true
@@ -11,7 +11,7 @@
     {
       "path": "renderer_opengl1.dll",
       "sha256": [
-        "7276b58b53674c6a11b3e610851e03faf0685345830222b86772e918381430ee"
+        "7276b58b53674c6a11b3e610851e03faf0685345830222b86772e918381430ee",
         "ABAF62DBE5719A7075554DA6EEEB921FF02DC4910B99A33D362A5BD7FD3B596C"
       ],
       "required": true
@@ -26,7 +26,7 @@
     {
       "path": "cgame.dll",
       "sha256": [
-        "5bd3f263cfdbc2b70cd36835ae4d9c34d14d53b181b7e7e9bb1b5842e9b40df9"
+        "5bd3f263cfdbc2b70cd36835ae4d9c34d14d53b181b7e7e9bb1b5842e9b40df9",
         "0F15465CD968705FA4DFA5F04E694BF6464E911BE75556D784B9E666569C20DF"
       ],
       "required": true
@@ -34,7 +34,7 @@
     {
       "path": "SDL2.dll",
       "sha256": [
-        "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb"
+        "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb",
         "490FD069834F308C7EC168F0C29DE8D20E1B4914E14DE690414874A8697296FB"
       ],
       "required": true
