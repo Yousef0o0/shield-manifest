@@ -21,7 +21,8 @@
     {
       "path": "game.dll",
       "sha256": [
-        "7147e55df46b4fc808c8c0724060a3199988eea82da516a66cb313d0843a15df"
+        "7147e55df46b4fc808c8c0724060a3199988eea82da516a66cb313d0843a15df",
+        "555BDF36ADC37DF38035164D50A4615F34FC69C970E962C33785EE155D6A0141"
       ],
       "required": true
     },
