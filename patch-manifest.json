@@ -1,7 +1,7 @@
 {
-  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.25/patch-v1.25.zip",
-  "game_version": "1.25",
+  "game_version": "1.26",
+  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.26/patch-v1.26.zip",
+  "patch_sha256": "0f87ef21fa684c0dd696af8b3fdb0bb9bb07b4b50bee0c96351d3b5239ce8461",
   "patch_size_mb": 27.97,
-  "patch_sha256": "2042f9a0af127ec50ecead37e270cbe27ab730fd226568ccd244bdbb5b722d37",
-  "patch_notes": "Shield game files verified in staging."
+  "patch_notes": "Fixed map-change crashes, menu settings persistence and sound issues, restricted SHIELD shift/HUD options to SHIELD sessions, fixed intermittent startup crash, reduced screenshot bandwidth, added mandatory gameplay-screenshot consent & API token link, and fixed updater behavior with extra files."
 }

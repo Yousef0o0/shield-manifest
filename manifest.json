@@ -3,8 +3,6 @@
     {
       "path": "openmohaa.exe",
       "sha256": [
-        "9e91273c2a20bfa7f664a0ad59cb11a925bab42db03ea9ce5d6c870975e6d49c",
-        "A68717AE4CEDA5D8E7B9A3A9C676AAAC2F96C3A108CB331AC16306CF9BC85055",
         "f87cc6c674c53fbd87086e8f17dacb4f258bb7443a776d865be758f6072b41bb"
       ],
       "required": true
@@ -12,8 +10,6 @@
     {
       "path": "renderer_opengl1.dll",
       "sha256": [
-        "7276b58b53674c6a11b3e610851e03faf0685345830222b86772e918381430ee",
-        "ABAF62DBE5719A7075554DA6EEEB921FF02DC4910B99A33D362A5BD7FD3B596C",
         "1732f38390d960f968ea8c686e08da63d4139f8e6c994fa5adf027592c157984"
       ],
       "required": true
@@ -21,7 +17,6 @@
     {
       "path": "game.dll",
       "sha256": [
-        "7147e55df46b4fc808c8c0724060a3199988eea82da516a66cb313d0843a15df",
         "e032554849193231147b1de3bb1384921adcc80bd1e7a9229f273ab95611f5bf"
       ],
       "required": true
@@ -29,8 +24,6 @@
     {
       "path": "cgame.dll",
       "sha256": [
-        "5bd3f263cfdbc2b70cd36835ae4d9c34d14d53b181b7e7e9bb1b5842e9b40df9",
-        "0F15465CD968705FA4DFA5F04E694BF6464E911BE75556D784B9E666569C20DF",
         "92d7000b6feb7f1de94dc96a63cb0c4442744b7dc2d6286dd12d1feaf1fbedad"
       ],
       "required": true
@@ -38,8 +31,7 @@
     {
       "path": "SDL2.dll",
       "sha256": [
-        "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb",
-        "490FD069834F308C7EC168F0C29DE8D20E1B4914E14DE690414874A8697296FB"
+        "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb"
       ],
       "required": true
     },
@@ -186,7 +178,7 @@
     {
       "path": "main/zzz-antennaskin-official.pk3",
       "sha256": [
-        "EFD90EAD3C5E7DF6DD46242DA783477B2A0F72ADC77E45FB836A9BEA1F5B141C"
+        "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
       ],
       "required": false
     },
