@@ -13,7 +13,7 @@
       "sha256": [
         "1732f38390d960f968ea8c686e08da63d4139f8e6c994fa5adf027592c157984",
         "8d79b39b590cb4abad8bdcd5ae68b77e395c6f4abaa136f574998c5935551b2f",
-        "ea5a94780b88d0f8c7cb317e6e603d215cd33dbcf0c1f86dc16116abd730b3d6"
+        "b894c381c46c42e3de2c97013e9834bb5a73a79d2b01ec8e8b509c867890f0eb"
       ],
       "required": true
     },
@@ -202,7 +202,7 @@
     {
       "path": "main/zzz_shield_fonts.pk3",
       "sha256": [
-        "94C107AAA24649489FB49ABA71B66BC854AD4C47533057E328C21DAC5CA98E5E"
+        "ABD8F274B487F9D1B7E439AFEE9CCFD2F2B5C95595B37E043B794EBD4B4056F4"
       ],
       "required": false
     }
