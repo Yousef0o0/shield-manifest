@@ -205,6 +205,41 @@
         "ABD8F274B487F9D1B7E439AFEE9CCFD2F2B5C95595B37E043B794EBD4B4056F4"
       ],
       "required": false
+    },
+    {
+      "path": "main/volute_mappack_1.pk3",
+      "sha256": [
+        "383222AFCCB5DA54C62CA5C6BD02500159C193BBFE04E7AD825F6C7822362CF4"
+      ],
+      "required": false
+    },
+    {
+      "path": "main/volute_mappack_2.pk3",
+      "sha256": [
+        "02A66E1035DFE574734B9264998972B8C3EB49B4C75B9E3D4CB782B1C165F499"
+      ],
+      "required": false
+    },
+    {
+      "path": "main/volute_mappack_3.pk3",
+      "sha256": [
+        "C9FB10D7F79E41F5C4E1C9A2C0C9F6DBE5AC0355C0029035627996DCDEB9DEB8"
+      ],
+      "required": false
+    },
+    {
+      "path": "main/volute_mappack_4.pk3",
+      "sha256": [
+        "67EDE47BCD25A46440EAFE0B1A26A9F352B6A13090FA430F332713D2FE2EEBBF"
+      ],
+      "required": false
+    },
+    {
+      "path": "main/volute_mappack_5.pk3",
+      "sha256": [
+        "3AB1062D453024D8C810A2F4F6237E04B028445DF7C6FFC9CB8DB9165631057B"
+      ],
+      "required": false
     }
   ],
   "directories": [
