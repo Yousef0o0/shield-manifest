@@ -206,7 +206,7 @@
       ],
       "required": false
     }
-  ]
+  ],
   "directories": [
     {
       "path": "main",
