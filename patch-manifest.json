@@ -1,7 +1,7 @@
 {
-  "game_version": "1.26",
-  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.26/patch-v1.26.zip",
-  "patch_sha256": "0f87ef21fa684c0dd696af8b3fdb0bb9bb07b4b50bee0c96351d3b5239ce8461",
-  "patch_size_mb": 27.97,
-  "patch_notes": "Fixed map-change crashes, menu settings persistence and sound issues, restricted SHIELD shift/HUD options to SHIELD sessions, fixed intermittent startup crash, reduced screenshot bandwidth, added mandatory gameplay-screenshot consent & API token link, and fixed updater behavior with extra files."
+  "game_version": "1.27",
+  "patch_url": "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.27/patch-v1.27.zip",
+  "patch_sha256": "6280095ce26fdc9f40d500a8df59e91878493df84577a2509ade81386700b945",
+  "patch_size_mb": 27.81,
+  "patch_notes": "SHIELD v2.6.0 / Patch 1.27: Real Trust Score & Badges, External Overlay detection, One-Click Addons & Maps Manager, Live Server Browser, Discord Rich Presence, HMAC-signed status & console hardening, 6 custom game fonts, and major performance & stability improvements."
 }
