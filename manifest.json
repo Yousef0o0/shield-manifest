@@ -3,7 +3,7 @@
                   {
                       "path":  "openmohaa.exe",
                       "sha256":  [
-                                     "9c9f176b2712b74b2f7da3e984a56e2cbf3c4f05fd7f0c8d8c2d49cdcd35e95d",
+                                     "8f5c75aaaabed505bf1a42bf57ff83071420888cd9ed57505825432070e26091",
                                      "aa11ca497fe001cc19bf88357ff87c8c9cde3c0a22149c5318f96fb79d71147e"
                                  ],
                       "required":  true
@@ -11,7 +11,7 @@
                   {
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
-                                     "b6673baeb7f67f4390d99a276baa7c491537d84a7e3ad0c6971e956431a9ed1a",
+                                     "824ef8b27bc426851cc60d0997347a494be12f027b37381da2509c29d6ca2773",
                                      "1810eac84b06fc0d3d25e3b9e3916e413436de465b4bea47037fe3c60164e789"
                                  ],
                       "required":  true
@@ -19,7 +19,7 @@
                   {
                       "path":  "game.dll",
                       "sha256":  [
-                                     "f2d8464aaa198993a6626709ea91a3d968ac4bb4acf79e7f73bb35c7ce31c6f0",
+                                     "e032554849193231147b1de3bb1384921adcc80bd1e7a9229f273ab95611f5bf",
                                      "87f704e44b88ac507ab4f36c76089a69d895c534e3bff0e1a397c41d90406160"
                                  ],
                       "required":  true
@@ -27,7 +27,7 @@
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "1968fe064ce80d66a3ce738e0f06ac22cff15cd2413aeebdbec355c773895ee3",
+                                     "fa21004347a8684f3b70581745dbf110b9063ea323735a573dc0ff8ed6db7a25",
                                      "d1d8eae329fa85a1c73c1a812010804316dddb2c924087c32484355a37aeb05d"
                                  ],
                       "required":  true
@@ -187,63 +187,62 @@
                                  ],
                       "required":  false
                   },
-        {
-      "path": "main/zzz-stockthinlinescope1024x1024.pk3",
-      "sha256": [
-        "335D59970FB5EA28A3C6CF3657A467945BE15A394A82074D53BB88E1E19311FB"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/User-CrizzBlood_2.1.pk3",
-      "sha256": [
-        "A10BEDCEF0FF33E2A67CAED421C7C5E50E79775CAA4576F66AB047757C976F90"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/zzz_shield_fonts.pk3",
-      "sha256": [
-        "ABD8F274B487F9D1B7E439AFEE9CCFD2F2B5C95595B37E043B794EBD4B4056F4"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_1.pk3",
-      "sha256": [
-        "383222AFCCB5DA54C62CA5C6BD02500159C193BBFE04E7AD825F6C7822362CF4"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_2.pk3",
-      "sha256": [
-        "02A66E1035DFE574734B9264998972B8C3EB49B4C75B9E3D4CB782B1C165F499"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_3.pk3",
-      "sha256": [
-        "C9FB10D7F79E41F5C4E1C9A2C0C9F6DBE5AC0355C0029035627996DCDEB9DEB8"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_4.pk3",
-      "sha256": [
-        "67EDE47BCD25A46440EAFE0B1A26A9F352B6A13090FA430F332713D2FE2EEBBF"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_5.pk3",
-      "sha256": [
-        "3AB1062D453024D8C810A2F4F6237E04B028445DF7C6FFC9CB8DB9165631057B"
-      ],
-      "required": false
-    },
-                  
+                  {
+                      "path":  "main/zzz-stockthinlinescope1024x1024.pk3",
+                      "sha256":  [
+                                     "335D59970FB5EA28A3C6CF3657A467945BE15A394A82074D53BB88E1E19311FB"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/User-CrizzBlood_2.1.pk3",
+                      "sha256":  [
+                                     "A10BEDCEF0FF33E2A67CAED421C7C5E50E79775CAA4576F66AB047757C976F90"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/zzz_shield_fonts.pk3",
+                      "sha256":  [
+                                     "ABD8F274B487F9D1B7E439AFEE9CCFD2F2B5C95595B37E043B794EBD4B4056F4"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/volute_mappack_1.pk3",
+                      "sha256":  [
+                                     "383222AFCCB5DA54C62CA5C6BD02500159C193BBFE04E7AD825F6C7822362CF4"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/volute_mappack_2.pk3",
+                      "sha256":  [
+                                     "02A66E1035DFE574734B9264998972B8C3EB49B4C75B9E3D4CB782B1C165F499"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/volute_mappack_3.pk3",
+                      "sha256":  [
+                                     "C9FB10D7F79E41F5C4E1C9A2C0C9F6DBE5AC0355C0029035627996DCDEB9DEB8"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/volute_mappack_4.pk3",
+                      "sha256":  [
+                                     "67EDE47BCD25A46440EAFE0B1A26A9F352B6A13090FA430F332713D2FE2EEBBF"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "main/volute_mappack_5.pk3",
+                      "sha256":  [
+                                     "3AB1062D453024D8C810A2F4F6237E04B028445DF7C6FFC9CB8DB9165631057B"
+                                 ],
+                      "required":  false
+                  },
                   {
                       "path":  "OpenAL32.dll",
                       "sha256":  [
