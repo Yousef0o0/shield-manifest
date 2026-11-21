@@ -296,5 +296,5 @@
                         }
                     ],
     "version":  3,
-    "lite_enabled":  false
+    "lite_enabled":  true
 }
