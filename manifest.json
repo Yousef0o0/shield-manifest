@@ -1,287 +1,236 @@
 {
-  "files": [
-    {
-      "path": "openmohaa.exe",
-      "sha256": [
-        "8f5c75aaaabed505bf1a42bf57ff83071420888cd9ed57505825432070e26091"
-      ],
-      "required": true
-    },
-    {
-      "path": "renderer_opengl1.dll",
-      "sha256": [
-        "824ef8b27bc426851cc60d0997347a494be12f027b37381da2509c29d6ca2773"
-      ],
-      "required": true
-    },
-    {
-      "path": "game.dll",
-      "sha256": [
-        "e032554849193231147b1de3bb1384921adcc80bd1e7a9229f273ab95611f5bf"
-      ],
-      "required": true
-    },
-    {
-      "path": "cgame.dll",
-      "sha256": [
-        "fa21004347a8684f3b70581745dbf110b9063ea323735a573dc0ff8ed6db7a25"
-      ],
-      "required": true
-    },
-    {
-      "path": "SDL2.dll",
-      "sha256": [
-        "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb"
-      ],
-      "required": true
-    },
-    {
-      "path": "OpenAL64.dll",
-      "sha256": [
-        "acf3a263e740b3dce22f582ecf1cb1ec01f97aeb47cbf452773cd02552645a05"
-      ],
-      "required": true
-    },
-    {
-      "path": "shield/AppCore.dll",
-      "sha256": [
-        "9722dc1d486dfe523323d195f105d16b7772d4f555da0a90d5d324efb930d90a"
-      ],
-      "required": true
-    },
-    {
-      "path": "shield/Ultralight.dll",
-      "sha256": [
-        "27d64ff4077281a5fb91fac461cece6d458aefb0920b4fffae86b5dee52e23d1"
-      ],
-      "required": true
-    },
-    {
-      "path": "shield/UltralightCore.dll",
-      "sha256": [
-        "b3073dd716f99b2b8f412bc08639f9df1affa0996660701aa538d36cc5d1abed"
-      ],
-      "required": true
-    },
-    {
-      "path": "shield/WebCore.dll",
-      "sha256": [
-        "29a25da7ae25df3758ef2239134361679773e6f75e14bd37d79d8ac15442f9f3"
-      ],
-      "required": true
-    },
-    {
-      "path": "snddrivers/Lowpass.flt",
-      "sha256": [
-        "db80987a6cc625bd2b16ca5c9281b0c4385a78dc7410e636e02972b830a039cb"
-      ],
-      "required": true
-    },
-    {
-      "path": "snddrivers/Mp3dec.asi",
-      "sha256": [
-        "0a6db88a5fad28168c1dac700473c5709b17802c33e36b2668c3300c1e580fad"
-      ],
-      "required": true
-    },
-    {
-      "path": "snddrivers/Mss32.dll",
-      "sha256": [
-        "2a515199cc7a2e1ccd8d756efdaab07cedd5c3052309ef1c7499c2560e2097bd"
-      ],
-      "required": true
-    },
-    {
-      "path": "snddrivers/Mssfast.m3d",
-      "sha256": [
-        "343ba39b3e5d0f220e0d15ec5f9eb9b84a04617599ba6cd1d815539637f10647"
-      ],
-      "required": true
-    },
-    {
-      "path": "snddrivers/Reverb3.flt",
-      "sha256": [
-        "e106854e123efa1396474b8a65369514c5b86f9a891fac74170ea5846faad62c"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/cgamex86.dll",
-      "sha256": [
-        "b86ccd590d0f9265085edb59f0e6c8fac3ba75c49c33e6e22fe7dbb8c20f57f3"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/ffx86.dll",
-      "sha256": [
-        "6256963cc834d0acf99cb51e6829f52fe1b46201111322bb379d01642c0de747"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/gamex86.dll",
-      "sha256": [
-        "746fb3ab9e11ca2b01b08570d5a2ce7854a4babc4e36d7fcbf3ba5923e74aab2"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak0.pk3",
-      "sha256": [
-        "6caf6d93cc996b6895d5015f1be153724e5369b8c063c73e1609578323261df6"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak1.pk3",
-      "sha256": [
-        "60ed94c185c4f81813aefaf1603b16734e65eb1b931737ae588df84c0a2a4b80"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak2.pk3",
-      "sha256": [
-        "00133b93d350b5d82ff2d59a7d87fe94dad18147d28b6fd59dd2b5a6c816acce"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak3.pk3",
-      "sha256": [
-        "1e0eed04b234bae260097813755325d2533bb6082c5fc9e98332aa66c4f4db92"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak4.pk3",
-      "sha256": [
-        "853cc70610933e83284db95e6144ed3c02d81190065b44aae94ba58ca09f3130"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/Pak5.pk3",
-      "sha256": [
-        "b6035d8686bed133be76cdee322c37fd4a9814ba88bbce3e91f20571ea7b2a1d"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/pak6.pk3",
-      "sha256": [
-        "619e6acfd37471f0c71194ef6546e592d01cd9f7c1a3ebf57064cf618cf503ae"
-      ],
-      "required": true
-    },
-    {
-      "path": "main/zzz-antennaskin-official.pk3",
-      "sha256": [
-        "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/zzz-stockthinlinescope1024x1024.pk3",
-      "sha256": [
-        "335D59970FB5EA28A3C6CF3657A467945BE15A394A82074D53BB88E1E19311FB"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/User-CrizzBlood_2.1.pk3",
-      "sha256": [
-        "A10BEDCEF0FF33E2A67CAED421C7C5E50E79775CAA4576F66AB047757C976F90"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/zzz_shield_fonts.pk3",
-      "sha256": [
-        "ABD8F274B487F9D1B7E439AFEE9CCFD2F2B5C95595B37E043B794EBD4B4056F4"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_1.pk3",
-      "sha256": [
-        "383222AFCCB5DA54C62CA5C6BD02500159C193BBFE04E7AD825F6C7822362CF4"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_2.pk3",
-      "sha256": [
-        "02A66E1035DFE574734B9264998972B8C3EB49B4C75B9E3D4CB782B1C165F499"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_3.pk3",
-      "sha256": [
-        "C9FB10D7F79E41F5C4E1C9A2C0C9F6DBE5AC0355C0029035627996DCDEB9DEB8"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_4.pk3",
-      "sha256": [
-        "67EDE47BCD25A46440EAFE0B1A26A9F352B6A13090FA430F332713D2FE2EEBBF"
-      ],
-      "required": false
-    },
-    {
-      "path": "main/volute_mappack_5.pk3",
-      "sha256": [
-        "3AB1062D453024D8C810A2F4F6237E04B028445DF7C6FFC9CB8DB9165631057B"
-      ],
-      "required": false
-    }
-  ],
-  "directories": [
-    {
-      "path": "main",
-      "recursive": false,
-      "extensions": [
-        ".pk3",
-        ".dll",
-        ".exe",
-        ".asi"
-      ]
-    },
-    {
-      "path": "shield",
-      "recursive": false,
-      "extensions": [
-        ".dll",
-        ".exe",
-        ".pk3",
-        ".asi"
-      ]
-    },
-    {
-      "path": "snddrivers",
-      "recursive": false,
-      "extensions": [
-        ".flt",
-        ".asi",
-        ".dll",
-        ".m3d",
-        ".exe",
-        ".pk3"
-      ]
-    },
-    {
-      "path": "",
-      "recursive": false,
-      "extensions": [
-        ".exe",
-        ".dll",
-        ".pk3",
-        ".asi"
-      ]
-    }
-  ],
-  "version": 3
+    "files":  [
+                  {
+                      "path":  "openmohaa.exe",
+                      "sha256":  [
+                                     "9c9f176b2712b74b2f7da3e984a56e2cbf3c4f05fd7f0c8d8c2d49cdcd35e95d",
+                                     "aa11ca497fe001cc19bf88357ff87c8c9cde3c0a22149c5318f96fb79d71147e"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "renderer_opengl1.dll",
+                      "sha256":  [
+                                     "b6673baeb7f67f4390d99a276baa7c491537d84a7e3ad0c6971e956431a9ed1a",
+                                     "1810eac84b06fc0d3d25e3b9e3916e413436de465b4bea47037fe3c60164e789"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "game.dll",
+                      "sha256":  [
+                                     "f2d8464aaa198993a6626709ea91a3d968ac4bb4acf79e7f73bb35c7ce31c6f0",
+                                     "87f704e44b88ac507ab4f36c76089a69d895c534e3bff0e1a397c41d90406160"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "cgame.dll",
+                      "sha256":  [
+                                     "1968fe064ce80d66a3ce738e0f06ac22cff15cd2413aeebdbec355c773895ee3",
+                                     "d1d8eae329fa85a1c73c1a812010804316dddb2c924087c32484355a37aeb05d"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "SDL2.dll",
+                      "sha256":  [
+                                     "490fd069834f308c7ec168f0c29de8d20e1b4914e14de690414874a8697296fb",
+                                     "3bcb18f833dcdbc92ae77d183a56f8322fcb58ce510d49800fb874a3e46055b9"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "OpenAL64.dll",
+                      "sha256":  [
+                                     "acf3a263e740b3dce22f582ecf1cb1ec01f97aeb47cbf452773cd02552645a05"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "shield/AppCore.dll",
+                      "sha256":  [
+                                     "9722dc1d486dfe523323d195f105d16b7772d4f555da0a90d5d324efb930d90a"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "shield/Ultralight.dll",
+                      "sha256":  [
+                                     "27d64ff4077281a5fb91fac461cece6d458aefb0920b4fffae86b5dee52e23d1"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "shield/UltralightCore.dll",
+                      "sha256":  [
+                                     "b3073dd716f99b2b8f412bc08639f9df1affa0996660701aa538d36cc5d1abed"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "shield/WebCore.dll",
+                      "sha256":  [
+                                     "29a25da7ae25df3758ef2239134361679773e6f75e14bd37d79d8ac15442f9f3"
+                                 ],
+                      "required":  false
+                  },
+                  {
+                      "path":  "snddrivers/Lowpass.flt",
+                      "sha256":  [
+                                     "db80987a6cc625bd2b16ca5c9281b0c4385a78dc7410e636e02972b830a039cb"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mp3dec.asi",
+                      "sha256":  [
+                                     "0a6db88a5fad28168c1dac700473c5709b17802c33e36b2668c3300c1e580fad"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mss32.dll",
+                      "sha256":  [
+                                     "2a515199cc7a2e1ccd8d756efdaab07cedd5c3052309ef1c7499c2560e2097bd"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Mssfast.m3d",
+                      "sha256":  [
+                                     "343ba39b3e5d0f220e0d15ec5f9eb9b84a04617599ba6cd1d815539637f10647"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "snddrivers/Reverb3.flt",
+                      "sha256":  [
+                                     "e106854e123efa1396474b8a65369514c5b86f9a891fac74170ea5846faad62c"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/cgamex86.dll",
+                      "sha256":  [
+                                     "b86ccd590d0f9265085edb59f0e6c8fac3ba75c49c33e6e22fe7dbb8c20f57f3"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/ffx86.dll",
+                      "sha256":  [
+                                     "6256963cc834d0acf99cb51e6829f52fe1b46201111322bb379d01642c0de747"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/gamex86.dll",
+                      "sha256":  [
+                                     "746fb3ab9e11ca2b01b08570d5a2ce7854a4babc4e36d7fcbf3ba5923e74aab2"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak0.pk3",
+                      "sha256":  [
+                                     "6caf6d93cc996b6895d5015f1be153724e5369b8c063c73e1609578323261df6"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak1.pk3",
+                      "sha256":  [
+                                     "60ed94c185c4f81813aefaf1603b16734e65eb1b931737ae588df84c0a2a4b80"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak2.pk3",
+                      "sha256":  [
+                                     "00133b93d350b5d82ff2d59a7d87fe94dad18147d28b6fd59dd2b5a6c816acce"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak3.pk3",
+                      "sha256":  [
+                                     "1e0eed04b234bae260097813755325d2533bb6082c5fc9e98332aa66c4f4db92"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak4.pk3",
+                      "sha256":  [
+                                     "853cc70610933e83284db95e6144ed3c02d81190065b44aae94ba58ca09f3130"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/Pak5.pk3",
+                      "sha256":  [
+                                     "b6035d8686bed133be76cdee322c37fd4a9814ba88bbce3e91f20571ea7b2a1d"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/pak6.pk3",
+                      "sha256":  [
+                                     "619e6acfd37471f0c71194ef6546e592d01cd9f7c1a3ebf57064cf618cf503ae"
+                                 ],
+                      "required":  true
+                  },
+                  {
+                      "path":  "main/zzz-antennaskin-official.pk3",
+                      "sha256":  [
+                                     "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
+                                 ],
+                      "required":  false
+                  }
+              ],
+    "directories":  [
+                        {
+                            "path":  "main",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".pk3",
+                                               ".dll",
+                                               ".exe",
+                                               ".asi"
+                                           ]
+                        },
+                        {
+                            "path":  "shield",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".dll",
+                                               ".exe",
+                                               ".pk3",
+                                               ".asi"
+                                           ]
+                        },
+                        {
+                            "path":  "snddrivers",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".flt",
+                                               ".asi",
+                                               ".dll",
+                                               ".m3d",
+                                               ".exe",
+                                               ".pk3"
+                                           ]
+                        },
+                        {
+                            "path":  "",
+                            "recursive":  false,
+                            "extensions":  [
+                                               ".exe",
+                                               ".dll",
+                                               ".pk3",
+                                               ".asi"
+                                           ]
+                        }
+                    ],
+    "version":  3
 }
