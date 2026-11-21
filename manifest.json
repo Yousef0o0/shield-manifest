@@ -12,7 +12,7 @@
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
                                      "824ef8b27bc426851cc60d0997347a494be12f027b37381da2509c29d6ca2773",
-                                     "d445543753d0765ca692f02e55725907ce120c310fd6d3d620370dac42f10bd0"
+                                     "a7b54f84bcf7e3b428d19c508b8401074072742d8e95f0112502ac03e920bc7c"
                                  ],
                       "required":  true
                   },
