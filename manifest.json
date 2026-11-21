@@ -186,6 +186,13 @@
                                      "efd90ead3c5e7df6dd46242da783477b2a0f72adc77e45fb836a9bea1f5b141c"
                                  ],
                       "required":  false
+                  },
+                  {
+                      "path":  "OpenAL32.dll",
+                      "sha256":  [
+                                     "8f1ed9d4afd14e831325fdd95f203c4c3278a3c98c6ca86533f8d4a986b5e782"
+                                 ],
+                      "required":  false
                   }
               ],
     "directories":  [
