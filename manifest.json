@@ -5,8 +5,8 @@
                       "sha256":  [
                                      "8f5c75aaaabed505bf1a42bf57ff83071420888cd9ed57505825432070e26091",
                                      "aa11ca497fe001cc19bf88357ff87c8c9cde3c0a22149c5318f96fb79d71147e",
-                                     "7e8c93a9c338d6ec003e9180388399e72fa79262da6042a851e77915c8131275",
-                                     "5adc1f16cff677915dedadc787e8e79f5d4f023b925e67b3266071eede6dbdd2"
+                                     "c04d00eef663c901e237c8439efa0cb13e1ea4fce28b31ddb7b0e456fc3e7599",
+                                     "8d00271cfb6b4e016e1cc2f35d1fdff53e2b67dfff9a67afa8f3ba37d8b06589"
                                  ],
                       "required":  true
                   },
@@ -15,8 +15,8 @@
                       "sha256":  [
                                      "824ef8b27bc426851cc60d0997347a494be12f027b37381da2509c29d6ca2773",
                                      "1d7bfae9188ee40000c77282198c2e766010452e662204a6f7ef820b072a2ed0",
-                                     "285ba8ace252ae3477e8ef4471dfa7e5eac9c3fa64df7d1b8b73fc71e6349410",
-                                     "d3c7dc68014f928a2ffa65d69c8b20164781032376ca0a7004ecb1abbd1d5c40"
+                                     "c0dddbf73ec95e6f3bfe289c53c91c201e789edf17bf812175d04e4196c6162e",
+                                     "fd9b97f109e098f60af7bc667b512d726693617e9e309e5aa6cfe12f8808c1e1"
                                  ],
                       "required":  true
                   },
@@ -31,8 +31,8 @@
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "fa21004347a8684f3b70581745dbf110b9063ea323735a573dc0ff8ed6db7a25",
-                                     "d1d8eae329fa85a1c73c1a812010804316dddb2c924087c32484355a37aeb05d"
+                                     "cb781b82734a11d9307e292ac3a40f1d63190921514df60e3b68023c82850e82",
+                                     "b21c11b0d3337c00a51a9024668315a817b3b0f570595735b5de35b724486b03"
                                  ],
                       "required":  true
                   },
