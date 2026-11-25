@@ -31,8 +31,8 @@
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "b6d7a6e623162b8800f9e5896ecc1adbe0baa687d77e138fef539f9cb207fe3e",
-                                     "00189d4367de80c52847c2aa1a977b98c3706b3c663f081066c5de21391a4ae6"
+                                     "09af96653e1a1ad5cbadc15d54644224c1107a3a2b004e6f22da2e51dd2e254d",
+                                     "6be887b3198152f363e68253718ec707ff36fc140e58be9486b1d49c75d91b81"
                                  ],
                       "required":  true
                   },
