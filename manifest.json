@@ -29,7 +29,8 @@
                       "sha256":  [
                                      "7137d317291918b6c7ff0ad2730559062fcd82bbc8861764273d992a2456eefb",
                                      "e7f4ac1154464b689ffbaa09f82f449c19b35c2b5d99cc637d26ffcf88e2af8e",
-                                     "65776fc5c84c72876c9a639daf5fca049373fba00a0240df4b0e9afcb252030a"
+                                     "65776fc5c84c72876c9a639daf5fca049373fba00a0240df4b0e9afcb252030a",
+                                     "143a1ad0478545da9b7cfa86321c47d91e09a210984265cf1ea8ec5a09f97732"
                                  ],
                       "required":  true
                   },
