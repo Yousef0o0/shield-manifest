@@ -1,10 +1,12 @@
 ﻿{
-    "game_version":  "1.29",
-    "patch_url":  "https://github.com/Yousef0o0/shield-manifest/releases/download/v2.7.1/patch-v2.7.1-x64.zip",
-    "patch_sha256":  "3fbd2338bb317b9b8c63bf6cc1dfb23b6909d880a572437ff99ba702b9c9cd41",
+    "game_version":  "1.30",
+    "patch_url":  "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.30/patch-v1.30-x64.zip",
+    "patch_sha256":  "d190b35b159ce3e564548d50f408ee206f4b9f0dc8c6c0c6a552bc3e17319585",
     "patch_size_mb":  27.75,
-    "patch_url_x86":  "https://github.com/Yousef0o0/shield-manifest/releases/download/v2.7.1/patch-v2.7.1-x86.zip",
-    "patch_sha256_x86":  "cbe8866355d73f4954846fcbdac02d36101ccf6a938171b4307a68592328b33e",
-    "patch_size_mb_x86":  6.01,
-    "patch_notes":  "SHIELD v2.7.1 / Patch 1.29: Fixed Kaspersky/AV GLOBALROOT path detection, Win7 SysWOW64 false alerts, Win7 in-game ImGui menu rendering glitch, launch/Alt+Tab brightness reset, in-game Connection presets (rate/snaps), native AV-friendly self-updater, and non-overlapping integrity dialogs."
+    "patch_url_x86":  "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.30-x86/patch-v1.30-x86.zip",
+    "patch_sha256_x86":  "63a9e391a1d9da849256d56e8fc5deb4b04eb3dfbbaa79f2acbab9ad8c555a05",
+    "patch_size_mb_x86":  6,
+    "files_base_url":  "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.30",
+    "files_base_url_x86":  "https://github.com/Yousef0o0/shield-manifest/releases/download/game-v1.30-x86",
+    "patch_notes":  "SHIELD Patch 1.30: Fixed Freeze Tag sound stutter (Auto Remove Cinematic) and restored Hitmarker / Hitmarker Sound toggles in the 64-bit SHIELD menu."
 }
