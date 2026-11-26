@@ -1,10 +1,8 @@
-{
+﻿{
     "files":  [
                   {
                       "path":  "openmohaa.exe",
                       "sha256":  [
-                                     "c04d00eef663c901e237c8439efa0cb13e1ea4fce28b31ddb7b0e456fc3e7599",
-                                     "8d00271cfb6b4e016e1cc2f35d1fdff53e2b67dfff9a67afa8f3ba37d8b06589",
                                      "33ba0ca1ec9031c6fefd1e0ef190c25f6dc7f9a3e3970104a77731ff0cfa1ca8",
                                      "6863a3a444d39b3089a15e1d61746fdf11125cbd918298f33385b884a5978378"
                                  ],
@@ -13,8 +11,6 @@
                   {
                       "path":  "renderer_opengl1.dll",
                       "sha256":  [
-                                     "c0dddbf73ec95e6f3bfe289c53c91c201e789edf17bf812175d04e4196c6162e",
-                                     "be0b2ab86e95d62cc26c75525204039016bb5b814d875086390aa25dd0275653",
                                      "b0d121cd9bce3af078b89f913e8efc4ed970566330c78c0aedb8432f59d5f43d",
                                      "984c798f6807304690290666ac853e4425547e26138efdd8f53dadf00d77424f"
                                  ],
@@ -23,18 +19,14 @@
                   {
                       "path":  "game.dll",
                       "sha256":  [
-                                     "e032554849193231147b1de3bb1384921adcc80bd1e7a9229f273ab95611f5bf",
-                                     "87f704e44b88ac507ab4f36c76089a69d895c534e3bff0e1a397c41d90406160",
-                                     "867CCF3DE62F375626E41FE55677744E3B2086A3B171B1DBAD8C8DEF9BA41701",
-                                     "A142F4861A9C72DB4F99CC20F037B3702321CB6BE06EA47C2A318351CEF6CC41"
+                                     "867ccf3de62f375626e41fe55677744e3b2086a3b171b1dbad8c8def9ba41701",
+                                     "a142f4861a9c72db4f99cc20f037b3702321cb6be06ea47c2a318351cef6cc41"
                                  ],
                       "required":  true
                   },
                   {
                       "path":  "cgame.dll",
                       "sha256":  [
-                                     "25f1d926f70f9c652c0065f842565676bc59d694b460d1525eb3ea1e38e5fc72",
-                                     "4aef605b4a13e410a42ec1b06a533b1695ca4c86c9a263163e53796c57c074a6",
                                      "7137d317291918b6c7ff0ad2730559062fcd82bbc8861764273d992a2456eefb",
                                      "e7f4ac1154464b689ffbaa09f82f449c19b35c2b5d99cc637d26ffcf88e2af8e"
                                  ],
